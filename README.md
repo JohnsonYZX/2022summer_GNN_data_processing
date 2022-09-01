@@ -17,5 +17,5 @@
 
 - **Note:** The format of output is exactly the same as the figure below, which means the first line of each table is empty.
 
-![figure](C:\Johnson\research\2022summer\Data_Processing\figure.png)
+![figure](https://github.com/JohnsonYZX/2022summer_GNN_data_processing/blob/main/figure.png)
 
